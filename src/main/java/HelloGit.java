@@ -4,5 +4,10 @@ public class HelloGit {
         System.out.println("I am main");
 
         System.out.println("main second");
+
+
+        System.out.println("I am branch");
+
+        System.out.println("second");
     }
 }
