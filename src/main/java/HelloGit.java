@@ -7,6 +7,5 @@ public class HelloGit {
         System.out.println("test error branch");
         System.out.println("im the main branch");
 
-        System.out.println("ok");
     }
 }
