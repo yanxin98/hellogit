@@ -8,10 +8,5 @@ public class HelloGit {
         System.out.println("im the main branch");
 
         System.out.println("second");
-
-        System.out.println("111111");
-
-        System.out.println("test");
-
     }
 }
